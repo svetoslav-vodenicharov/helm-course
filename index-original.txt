@@ -1,0 +1,37 @@
+apiVersion: v1
+entries:
+  repo01:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-03T20:14:27.7562641+02:00"
+    description: A Helm chart for Kubernetes
+    digest: b45f1df22176c43f88136beb69c5a224065a58289c96ad1560f1ba7bf1d0b2ec
+    name: repo01
+    type: application
+    urls:
+    - repo01-0.1.0.tgz
+    version: 0.1.0
+  repo02:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-03T20:14:27.7572174+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 33ea58971b34f75196003c14d9af3c059172e7147c1f6fc9be4834c0a6fe450f
+    name: repo02
+    type: application
+    urls:
+    - repo02-0.1.0.tgz
+    version: 0.1.0
+  repo03:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-03T20:14:27.758737+02:00"
+    description: A Helm chart for Kubernetes
+    digest: db4020bc1a1ebe9d0594ef97c57edf4619e228bb296e21ac6bc66039b5b66952
+    name: repo03
+    type: application
+    urls:
+    - repo03-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-03T20:14:27.7183334+02:00"
+
